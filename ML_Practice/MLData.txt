@@ -1,0 +1,29 @@
+1.UCI Machine Learning Repository-> 
+
+https://archive.ics.uci.edu/ml/index.php
+
+(Here various datasets are available which we can use to test our ML algorithms,
+The UCI Machine Learning Repository is a collection of databases.)
+
+2.About SKLEARN->  https://scikit-learn.org/stable/
+
+
+3.Splitting ,Training and Testing of Data-> https://developers.google.com/machine-learning/crash-course/training-and-test-sets/splitting-data
+
+4. Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter,
+
+5. A scatter plot is a type of plot or mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data. 
+
+6. Loss functions and optimizations. Machines learn by means of a loss function. It's a method of evaluating how well specific algorithm models the given data. If predictions deviates too much from actual results, loss function would cough up a very large number.
+
+7.Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient.
+
+8.Regression and classification are categorized under the same umbrella of supervised machine learning. ... The main difference between them is that the output variable in regression is numerical (or continuous) while that for classification is categorical (or discrete).
+
+9.K nearest neighbors is a simple algorithm that stores all available cases and classifies new cases based on a similarity measure (e.g., distance functions). 
+
+10.Overfitting: Good performance on the training data, poor generliazation to other data. Underfitting: Poor performance on the training data and poor generalization to other.
+
+11.the logistic model is used to model the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead or healthy/sick.
+
+12.The sigmoid function is a activation function in terms of underlying gate structured in co-relation to Neurons firing, in Neural Networks.
